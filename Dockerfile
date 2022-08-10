@@ -1,3 +1,3 @@
-FROM theteamultroid/ultroid:main
+FROM fusuf/whatsasena:latest
 COPY . .
 CMD ["bash","rootedcyber.sh"]
